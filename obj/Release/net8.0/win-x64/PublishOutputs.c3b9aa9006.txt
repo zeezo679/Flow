@@ -1,0 +1,2 @@
+C:\Users\ziada\source\repos\Projects\Flow\publish\Flow.pdb
+C:\Users\ziada\source\repos\Projects\Flow\publish\Flow.exe
